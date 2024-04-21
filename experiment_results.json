@@ -1,0 +1,89 @@
+[
+    {
+        "batch_size": 1,
+        "results": [
+            {
+                "generated_text": "[{'generated_text': 'Where is the QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE'}]",
+                "batch_size": 1,
+                "inference_time": 72.99754285812378,
+                "memory_used": 786432
+            },
+            {
+                "generated_text": "[{'generated_text': 'What was the NKVD????????????????????\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n'}]",
+                "batch_size": 1,
+                "inference_time": 69.45442628860474,
+                "memory_used": 131072
+            },
+            {
+                "generated_text": "[{'generated_text': 'who is in absyrtus?&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&'}]",
+                "batch_size": 1,
+                "inference_time": 68.9004693031311,
+                "memory_used": 0
+            },
+            {
+                "generated_text": "[{'generated_text': 'Buying a house 50/50 50 50 50 50 50 50 50 50 50 50 50 50 50 5'}]",
+                "batch_size": 1,
+                "inference_time": 68.51038479804993,
+                "memory_used": 131072
+            }
+        ]
+    },
+    {
+        "batch_size": 2,
+        "results": [
+            {
+                "generated_text": "[{'generated_text': 'Where is the QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE'}]",
+                "batch_size": 2,
+                "inference_time": 138.1963222026825,
+                "memory_used": 0
+            },
+            {
+                "generated_text": "[{'generated_text': 'What was the NKVD????????????????????\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n'}]",
+                "batch_size": 2,
+                "inference_time": 138.1963222026825,
+                "memory_used": 0
+            },
+            {
+                "generated_text": "[{'generated_text': 'who is in absyrtus?&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&'}]",
+                "batch_size": 2,
+                "inference_time": 136.45542788505554,
+                "memory_used": 0
+            },
+            {
+                "generated_text": "[{'generated_text': 'Buying a house 50/50 50 50 50 50 50 50 50 50 50 50 50 50 50 5'}]",
+                "batch_size": 2,
+                "inference_time": 136.45542788505554,
+                "memory_used": 0
+            }
+        ]
+    },
+    {
+        "batch_size": 4,
+        "results": [
+            {
+                "generated_text": "[{'generated_text': 'Where is the QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE? QFE'}]",
+                "batch_size": 4,
+                "inference_time": 275.03442907333374,
+                "memory_used": 131072
+            },
+            {
+                "generated_text": "[{'generated_text': 'What was the NKVD????????????????????\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n@\\n'}]",
+                "batch_size": 4,
+                "inference_time": 275.03442907333374,
+                "memory_used": 131072
+            },
+            {
+                "generated_text": "[{'generated_text': 'who is in absyrtus?&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&'}]",
+                "batch_size": 4,
+                "inference_time": 275.03442907333374,
+                "memory_used": 131072
+            },
+            {
+                "generated_text": "[{'generated_text': 'Buying a house 50/50 50 50 50 50 50 50 50 50 50 50 50 50 50 5'}]",
+                "batch_size": 4,
+                "inference_time": 275.03442907333374,
+                "memory_used": 131072
+            }
+        ]
+    }
+]
